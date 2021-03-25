@@ -16,6 +16,5 @@ namespace MTPTPM_WindowForm
         {
             InitializeComponent();
         }
-
     }
 }
